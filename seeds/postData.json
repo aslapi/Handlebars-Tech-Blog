@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Handlebars.js",
+        "content": "Handlebars.js is a templating engine that allows you to generate HTML with JavaScript. It is a popular choice for developers who want to create dynamic web pages without having to write a lot of code. Handlebars.js is easy to learn and use, and it is compatible with most modern web browsers. In this article, we will discuss the basics of Handlebars.js and show you how to use it to create dynamic web pages.",
+        "user_id": 1
+    },
+    {
+        "title": "What is a partial in Handlebars.js?",
+        "content": "A partial in Handlebars.js is a reusable piece of code that can be included in multiple templates. Partials are useful for reducing code duplication and making your templates more modular. In this article, we will discuss how to create and use partials in Handlebars.js.",
+        "user_id": 2
+    },
+    {
+        "title": "How to use helpers in Handlebars.js",
+        "content": "Helpers in Handlebars.js are functions that can be used to perform common tasks in your templates. They are useful for formatting data, conditionally rendering content, and more. In this article, we will discuss how to create and use helpers in Handlebars.js.",
+        "user_id": 3
+    }
+]

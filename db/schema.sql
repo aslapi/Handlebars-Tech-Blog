@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS hb_tech_blog;
-CREATE DATABASE hb_tech_blog;
+DROP DATABASE IF EXISTS hbtechblog_db;
+CREATE DATABASE hbtechblog_db;
